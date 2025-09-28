@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2025-08-20 17:23">
+    <company>30392452</company>
+    <merchantid>30392452</merchantid>
+    <offers>
+        <offer sku="474511938">
+            <model>30392452_643990737 розовый 98</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129879989_029361691">
+            <model>Hello полотенце-пончо 876 105x105 см 1 шт, махровая ткань</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2495</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="649146456">
+            <model>Little Angels LITE#</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="732709246">
+            <model>30333027_149772988</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="010278970">
+            <model>30392452_139771692 серый 48</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="845403092">
+            <model>Атласные ленты 25мм х 21м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="12837453b_987871448">
+            <model>Футболка Qazhomeshop черный, бежевый</model>
+            <brand>Qazhomeshop</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="125856441">
+            <model>30392452_849908098 синий 116</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16703490b_745760364">
+            <model>Брюки мультиколор</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="066570350">
+            <model>30392452_478862790 бежевый коричневый 98</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="725993628">
+            <model>18007506_229546481</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="351436055">
+            <model>16744377_718432455</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="811801035">
+            <model>Di-Di Kids 514419</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="731140963">
+            <model>Атласная лента 1шт 100мм х 25м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="635463581">
+            <model>30392452_082199824</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16679164b_807557277">
+            <model>Брюки синий</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2495</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="904805917">
+            <model>Атласные ленты 6шт 20мм х 21м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="464821403">
+            <model>Little Maven S123456 синий 6Y</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="589354356">
+            <model>30392452_927181812 хаки светло-зеленый 128</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="858526494">
+            <model>30392452_815188113 черный one size</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="669226238">
+            <model>30392452_043519155</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2495</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="12084379b_670127221">
+            <model>Пижама Little Angels серый, оранжевый</model>
+            <brand>Little Angels</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="456064329">
+            <model/>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="191118579">
+            <model>Папка для тетрадей Сумка для бумаг, А4, серый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="293710533">
+            <model>Атласные ленты 25мм х 21м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="352618984">
+            <model>30392452_180263669</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118092695_095676211">
+            <model>Birthday girl лента, корона 2 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="12983015b_989381648">
+            <model>Леггинсы графит, темно-серый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="251692342">
+            <model>Little Angels LITE</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="12837453b_523240460">
+            <model>Футболка Qazhomeshop черный, бежевый</model>
+            <brand>Qazhomeshop</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="10438175b_995727358">
+            <model>Флисовый халат Di-Di Kids мультиколор</model>
+            <brand>Di-Di Kids</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="754918720">
+            <model>30392452_643990737 розовый 104</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="402324006">
+            <model>30392452_815188113 бежевый one size</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="431397402">
+            <model>Рюкзак нейлон розовый, мультиколор</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4995</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="910304472">
+            <model>Атласная лента темно - фиолетовая 1шт 100мм х 25м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="779444928">
+            <model>Атласные ленты 25мм х 21м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="363932828">
+            <model>Атласная лента 1шт 100мм х 25м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="573260242">
+            <model>Атласные ленты 20мм х 21м 6шт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="147206122">
+            <model>30392452_185579574 черный розовый 50</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16720091b_997321175">
+            <model>Пижама Little Angels черный, серый</model>
+            <brand>Little Angels</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="372253880">
+            <model>30333027_149772988</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="11895933b_641310664">
+            <model>Пижама Little Angels мультиколор</model>
+            <brand>Little Angels</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="114985264_913042462">
+            <model>Для подружек невесты на девичник лента 1 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="361315243">
+            <model>30333027_149772988</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="15505175b_569885846">
+            <model>Пижама белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="214974779">
+            <model>Атласные ленты 6шт 20мм х 21м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="285689934">
+            <model>Рюкзак Jingpin 46459053 текстиль, холст серый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="17496583b_756395475">
+            <model>Пижама мультиколор</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="112433768_484780004">
+            <model>752422 Birthday Girl лента, корона 2 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="4.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1700</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="813864317">
+            <model>30392452_082199824 голубой 8 лет 9 лет</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="502023870">
+            <model>30392452_927181812 розовый 116</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="760717603">
+            <model>Атласная лента 1шт 100мм х 25м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="169519591">
+            <model>Рюкзак нейлон голубой, мультиколор</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4995</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="922616816">
+            <model>30392452_478862790 бежевый коричневый 86</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="203334217">
+            <model>Атласные ленты 25мм 21м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="351335765">
+            <model>30392452_231150187 серый L</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="10438175b_663917277">
+            <model>Флисовый халат Di-Di Kids розовый</model>
+            <brand>Di-Di Kids</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="908310291">
+            <model>Little Maven S123456 зеленый 7Y</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="028999657">
+            <model>30392452_071295459 желтый 4 года 5 лет</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="468400298">
+            <model>Рюкзак Jingpin 12989989 холст синий</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="458306322">
+            <model>30392452_688346961 розовый 44 46</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">11000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="973530539">
+            <model>30392452_131571308 белый 134 152</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2495</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="15130857b_180743557">
+            <model>Лонгслив черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="909310991">
+            <model>Атласные ленты 6шт 20мм х 21м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="298585419">
+            <model>30392452_180263669 розовый мультиколор 2M 6M</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="11875399b_259112432">
+            <model>Пижама Little Angels серый, оранжевый</model>
+            <brand>Little Angels</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="537743355">
+            <model>30392452_082199824 мультиколор 8 лет 10 лет</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="767397126">
+            <model>Атласные ленты 25мм х 21м</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="889238285">
+            <model>Красящая лента риббон 100мм/300м WAX 400-7886-679 1 шт</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="13244503b_582164077">
+            <model>Леггинсы черный</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="974504085">
+            <model>30392452_930188850 черный белый универсальный</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="256471674">
+            <model>30392452_540727827 розовый 116</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="107846275">
+            <model>30392452_540727827 фиолетовый 128</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="540740644">
+            <model>Little Maven S123456</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="694253892">
+            <model>Little Angels LITE</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="825943970">
+            <model>30052351_864354248</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="883025010">
+            <model>30052351_864354248</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="016879702">
+            <model>30052351_864354248</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">3900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="348172782">
+            <model>30333027_149772988</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="848509996">
+            <model>30333027_149772988</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="050383304">
+            <model>30333027_149772988</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="652934497">
+            <model>30392452_689117652 коричневый XL</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="816037197">
+            <model>30392452_689117652 коричневый L</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="531804961">
+            <model>30392452_689117652 айвори L</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">4500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="113488441_919493846">
+            <model>Набор воздушных шаров Kuromi с надписью, однотонный, фольгированный, с рисунком 5 шт</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="662830037">
+            <model/>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">1950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="701476248">
+            <model>30392452_043519155</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30392452_PP1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="151010000">2495</cityprice>
+            </cityprices>
+        </offer>
+    </offers>
+</kaspi_catalog>
